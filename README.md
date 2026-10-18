@@ -1,4 +1,4 @@
-# TP Métaheuristiques - Faculté des Sciences de Sfax
+# TD Métaheuristiques - Faculté des Sciences de Sfax
 
 ## Contenu
 - `ex2_transport_tabou.py` : problème de transport, recherche taboue
